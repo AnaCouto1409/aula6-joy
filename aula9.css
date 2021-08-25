@@ -5,10 +5,11 @@
   font-family: 'Roboto', sans-serif;
   background-color: #131313;
   color: white;
+  text-align: justify;
 }
 #media-picture{
-    height: 100px;
-    width: 100px;
+    height: 100%;
+    width: 100%;
     align-items: center;
     background-position: center;
     padding-top: 50px;
@@ -16,4 +17,10 @@
     padding-bottom: 50px;
     padding-right: 80px;
     background-color: #e6bd09;
+}
+.ver1{
+    font-size: 2rem;
+}
+.ver2{
+    font-size: 2rem;
 }
