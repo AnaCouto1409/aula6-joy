@@ -1,0 +1,19 @@
+*{
+    font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v27/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  font-family: 'Roboto', sans-serif;
+  background-color: #131313;
+  color: white;
+}
+#media-picture{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    background-position: center;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-right: 80px;
+    background-color: #e6bd09;
+}
